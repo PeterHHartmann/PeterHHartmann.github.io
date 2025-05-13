@@ -9,7 +9,7 @@
 
 @font-face {
     font-family: 'ChicagoFLF';
-    src: url('fonts/ChicagoFLF.ttf') format('truetype'); /* Safari, Android, iOS */
+    src: url('assets/fonts/ChicagoFLF.ttf') format('truetype'); /* Safari, Android, iOS */
 }
 
 :root {
@@ -28,7 +28,7 @@ html,
 body {
     -moz-user-select: none;
     -webkit-user-select: none;
-    background-image: url("img/patterns/139.png");
+    background-image: url("assets/img/patterns/139.png");
     background-repeat: repeat;
     margin: 0;
     height: 100%;

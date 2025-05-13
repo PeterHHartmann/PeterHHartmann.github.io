@@ -1,5 +1,5 @@
 // import '@sakun/system.css';
-import './base.css';
+import './style.css';
 import { StrictMode } from 'react';
 import ReactDOM from 'react-dom/client';
 import { RouterProvider, createRouter } from '@tanstack/react-router';
