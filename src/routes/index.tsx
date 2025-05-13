@@ -19,8 +19,8 @@ function Index() {
 				</div>
 				<div className='inner w-full h-20'>
 					<ul>
-						<p>This is a portfolio</p>
-						<p></p>
+						<p>This is my portfolio</p>
+						<p>It is still a work in progress</p>
 						<p></p>
 						<p></p>
 						<p></p>
